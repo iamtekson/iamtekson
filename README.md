@@ -1,7 +1,7 @@
 ### नमस्ते (Namaste)🙏🏻, I'm Tek Kshetri! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 
-- 🔭 I’m currently working on [Geoinformatics Center](http://geoinfo.ait.ac.th/)
+- 🔭 I’m currently working at [Geoinformatics Center](http://geoinfo.ait.ac.th/)
 - 🌱 I’m currently learning [React](https://reactjs.org/), [Ruby on Rails](https://rubyonrails.org/)
 - 👯 I’m looking to collaborate on **any open source projects**
 - 🤔 I’m looking for help with **React hooks**
