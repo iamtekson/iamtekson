@@ -8,7 +8,7 @@
 - 💬 Ask me about **Web-GIS, Web-Mapping and Remote Sensing**
 - 📫 How to reach me: twitter: [@iamtekson](https://twitter.com/iamtekson), youtube: [@iamtekson](https://www.youtube.com/iamtekson)
 
-<img src="https://github-readme-stats.vercel.app/api?username=iamtekson&&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=iamtekson&&show_icons=true&count_private=true" />
 
 **Visitors Count**
 
