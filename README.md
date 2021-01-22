@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **any open source projects**
 - 🤔 I’m looking for help with **Ruby on Rails**
 - 💬 Ask me about **Web-GIS, Web-Mapping and Remote Sensing**
-- 📫 How to reach me: twitter: [@iamtekson](https://twitter.com/iamtekson), youtube: [@iamtekson](https://www.youtube.com/iamtekson)
+- 📫 How to reach me: twitter: [@iamtekson](https://twitter.com/iamtekson), youtube: [@iamtekson](https://www.youtube.com/iamtekson), linkedin [@iamtekson](https://www.linkedin.com/in/iamtekson/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamtekson&&show_icons=true&count_private=true" />
 
