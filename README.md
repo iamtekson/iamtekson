@@ -13,11 +13,20 @@
 - 💬 Ask me about **Web-GIS, Web-Mapping and Remote Sensing**
 - 📫 How to reach me: twitter: [@iamtekson](https://twitter.com/iamtekson), youtube: [@iamtekson](https://www.youtube.com/iamtekson), linkedin [@iamtekson](https://www.linkedin.com/in/iamtekson/)
 
+
+### Online courses
+
+- [Web mapping and Web-GIS from Dev to Deploy 2021: GeoDjango](https://www.udemy.com/course/web-mapping-and-web-gis-from-dev-to-deploy-2021-geodjango/?referralCode=14893C9BD7E7D959F865)
+- [Introduction to Web Mapping and Web GIS](https://www.udemy.com/course/introduction-to-web-mapping-and-web-gis-2020-geodjango/?referralCode=72E09BDD6D9C8ECE2169)
+- [Elevation Data Processing In GIS](https://www.udemy.com/course/working-with-dem-data-in-gis/?referralCode=7F0AC3609C77546E7972)
+- [Application of Remote Sensing techniques](https://www.udemy.com/course/application-of-remote-sensing-techniques/?referralCode=01FA9AC41329E53B9FE6)
+
+
 ### Open-source projects
 
-- [geoserver-rest](https://github.com/gicait/geoserver-rest): The geoserver-rest package is useful for the management of geospatial data in GeoServer. This package is useful for creating, updating and deleting geoserver workspaces, stores, layers, and style files.
-- [leaflet-geoserver-request](https://github.com/iamtekson/leaflet-geoserver-request): This is the library for various kind of requests in lealflet using geoserver. Using this plugin, we can make WMS, WFS, getLegendGraphic, WMS-Image request.
-- [pysld](https://github.com/iamtekson/pySLD): The library is useful for generating the SLD file for raster as well as vector datasets. The package can generate 4 types of styles, Simple style, Categorized style, Classified style, Raster style.
+- [geoserver-rest](https://github.com/gicait/geoserver-rest): The geoserver-rest package is useful for the management of geospatial data in GeoServer. 
+- [leaflet-geoserver-request](https://github.com/iamtekson/leaflet-geoserver-request): This is the library for various kind of requests in lealflet using geoserver. 
+- [pysld](https://github.com/iamtekson/pySLD): The library is useful for generating the SLD file for raster as well as vector datasets. 
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamtekson&&show_icons=true&count_private=true" />
 
