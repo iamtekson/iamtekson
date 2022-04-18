@@ -16,6 +16,7 @@
 
 ### Online courses
 
+- [Geospatial Data Analysis with Python](https://www.udemy.com/course/geospatial-data-analysis-with-python/?referralCode=5B58238C5392672D17B7)
 - [Web GIS development 2021](https://www.udemy.com/course/web-gis-development-2021/?referralCode=488F271341990F62FD05)
 - [Web mapping and Web-GIS from Dev to Deploy 2021: GeoDjango](https://www.udemy.com/course/web-mapping-and-web-gis-from-dev-to-deploy-2021-geodjango/?referralCode=14893C9BD7E7D959F865)
 - [Introduction to Web Mapping and Web GIS](https://www.udemy.com/course/introduction-to-web-mapping-and-web-gis-2020-geodjango/?referralCode=72E09BDD6D9C8ECE2169)
