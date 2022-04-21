@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning deep learning using [pytorch](https://pytorch.org/)
 - 👯 I’m looking to collaborate on **any open source projects**
 - 🤔 I’m looking for help with **above mentioned topics**
-- 💬 Ask me about **Web-GIS, Web-Mapping and Remote Sensing**
+- 💬 Ask me about **Web-GIS, Spatial Data Analysis, ML, DL, and Earth Observation**
 - 📫 How to reach me: twitter: [@iamtekson](https://twitter.com/iamtekson), youtube: [@iamtekson](https://www.youtube.com/iamtekson), linkedin [@iamtekson](https://www.linkedin.com/in/iamtekson/)
 
 
