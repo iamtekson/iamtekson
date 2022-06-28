@@ -7,10 +7,10 @@
 [![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/iamtekson)
 
 - 🔭 I’m currently working at [Geoinformatics Center](http://geoinfo.ait.ac.th/)
-- 🌱 I’m currently learning deep learning using [pytorch](https://pytorch.org/)
-- 👯 I’m looking to collaborate on **any open source projects**
+- 🌱 I’m currently exploring earth observation and remote sensing
+- 👯 I’m looking to collaborate on **any geospatial open source projects**
 - 🤔 I’m looking for help with **above mentioned topics**
-- 💬 Ask me about **Web-GIS, Spatial Data Analysis, ML, DL, and Earth Observation**
+- 💬 Ask me about **Web-GIS, open-source, Spatial Data Analysis, ML, DL, and Earth Observation**
 - 📫 How to reach me: twitter: [@iamtekson](https://twitter.com/iamtekson), youtube: [@iamtekson](https://www.youtube.com/iamtekson), linkedin [@iamtekson](https://www.linkedin.com/in/iamtekson/)
 
 
