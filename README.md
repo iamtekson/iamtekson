@@ -26,7 +26,7 @@
 
 ### Open-source projects
 
-- [geotile](https://github.com/iamtekson/geotile)
+- [geotile](https://github.com/iamtekson/geotile): The geotile is the python package for management of the geospatial tiles for raster dataset.
 - [geoserver-rest](https://github.com/gicait/geoserver-rest): The geoserver-rest package is useful for the management of geospatial data in GeoServer. 
 - [leaflet-geoserver-request](https://github.com/iamtekson/leaflet-geoserver-request): This is the library for various kind of requests in lealflet using geoserver. 
 - [pysld](https://github.com/iamtekson/pySLD): The library is useful for generating the SLD file for raster as well as vector datasets. 
