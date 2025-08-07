@@ -15,6 +15,8 @@
 
 
 ### Online courses
+
+- [Mastering Earth Observation with AI & Google Earth Engine](https://www.udemy.com/course/mastering-earth-observation-with-ai-google-earth-engine/?referralCode=934E90D4366113DE2754)
 - [Deep Learning Application for Earth Observation](https://www.udemy.com/course/deep-learning-application-for-earth-observation/?referralCode=B4655A8A918826871A40)
 - [Geospatial Data Analysis with Python](https://www.udemy.com/course/geospatial-data-analysis-with-python/?referralCode=5B58238C5392672D17B7)
 - [Web GIS development 2021](https://www.udemy.com/course/web-gis-development-2021/?referralCode=488F271341990F62FD05)
